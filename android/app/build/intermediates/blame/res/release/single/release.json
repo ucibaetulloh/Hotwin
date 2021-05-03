@@ -744,10 +744,6 @@
         "source": "C:\\Users\\fujibaetulloh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\c38e82d5c32bcde3d907b84e0256cbcf\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_logotrail.png.flat",
-        "source": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_logotrail.png"
-    },
-    {
         "merged": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
         "source": "C:\\Users\\fujibaetulloh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\c38e82d5c32bcde3d907b84e0256cbcf\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
@@ -1018,6 +1014,10 @@
     {
         "merged": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_redbox_item_title.xml.flat",
         "source": "C:\\Users\\fujibaetulloh\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-react-native-0.58.6.aar\\6c8815099baa24f4262bd5c163bb96b0\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_app_assets_images_fullsplashscreen.png.flat",
+        "source": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\app_assets_images_fullsplashscreen.png"
     },
     {
         "merged": "E:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_text_cursor_material.xml.flat",

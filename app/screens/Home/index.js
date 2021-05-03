@@ -910,7 +910,7 @@ class HomeScreen extends React.Component {
                 {cancelable: false},
               );
             } else {
-              return Linking.openURL(url);
+              return Linking.openURL(jsonParam.url);
             }
           })
           .catch((err) => {

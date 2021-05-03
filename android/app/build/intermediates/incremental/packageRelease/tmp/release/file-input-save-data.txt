@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 28 21:25:04 ICT 2021
+#Mon May 03 11:06:26 ICT 2021
 5.base=E\:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
 42.base=E\:\\WorkSheet\\Hotwin\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
 22.path=lib/x86_64/libgnustl_shared.so

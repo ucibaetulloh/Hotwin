@@ -109,60 +109,12 @@ class IntroScreen extends React.Component {
 
   render() {
     return (
-      <ImageBackground style={styles.pictureContainer}>
-        <View
-          style={{
-            flex: 1,
-            justifyContent: 'center',
-            alignItems: 'center',
-            padding: 50,
-          }}>
-          <Image
-            source={require('../../assets/images/logo-trail.png')}
-            style={{
-              height: 120,
-              width: 250,
-            }}
-          />
-
-          {this.goToHome()}
-        </View>
+      <ImageBackground
+        style={styles.pictureContainer}
+        source={require('../../assets/images/full-splashscreen.png')}>
+        {this.goToHome()}
       </ImageBackground>
     );
-    // if (this.state.show_Main_App) {
-    //   return (
-    //     <ImageBackground style={styles.pictureContainer}>
-    //       <View
-    //         style={{
-    //           flex: 1,
-    //           justifyContent: 'center',
-    //           alignItems: 'center',
-    //           padding: 50,
-    //         }}>
-    //         <Image
-    //           source={require('../../assets/images/MainLogoPNG.png')}
-    //           style={{
-    //             height: 250,
-    //             width: 250,
-    //             marginTop: -50,
-    //             marginBottom: 10,
-    //           }}
-    //         />
-
-    //         {this.goToHome()}
-    //       </View>
-    //     </ImageBackground>
-    //   );
-    // } else {
-    //   return (
-    //     <AppIntroSlider
-    //       ref={(ref) => (this.slider = ref)}
-    //       slides={slides}
-    //       onDone={this.on_Done_All_slide}
-    //       bottomButton
-    //     />
-    //   );
-    // }
   }
 }
 export default IntroScreen;
