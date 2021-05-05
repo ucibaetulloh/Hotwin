@@ -28,7 +28,7 @@ class HomeScreen extends React.Component {
     this.state = {
       title: '',
       canGoBack: false,
-      webUri: 'http://109.203.100.85',
+      webUri: 'http://109.203.100.85:7701',
       canChangeCommunity: true,
       communityList: [],
       hideTopbar: false,

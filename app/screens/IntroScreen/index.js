@@ -111,7 +111,7 @@ class IntroScreen extends React.Component {
     return (
       <ImageBackground
         style={styles.pictureContainer}
-        source={require('../../assets/images/full-splashscreen.png')}>
+        source={require('../../assets/images/splashscreen.png')}>
         {this.goToHome()}
       </ImageBackground>
     );
